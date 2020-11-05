@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/terra/DEM_Evaluate/build",
+  "command": "/bin/g++-9   -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/dem_eval.dir/main.cpp.o -c /home/terra/DEM_Evaluate/main.cpp",
+  "file": "/home/terra/DEM_Evaluate/main.cpp"
+}
+]
